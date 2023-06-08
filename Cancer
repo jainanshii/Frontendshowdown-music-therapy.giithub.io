@@ -1,0 +1,82 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap-icons@1.3.0/font/bootstrap-icons.css">
+    <link rel="stylesheet" href="styles.css">
+    <link rel="icon" type="image/x-icon" href="/favicon.png">
+    <script src="script.js"></script>
+    <title>Music Therapy: Cure to many depression</title>
+</head>
+<body>
+    <nav>
+        <div>
+            <ul>
+                <li><img id="icon" src="/favicon.png" alt="Music Therapy"></li>
+                <li><a href="/index.html"><i class="bi bi-house-door">Home</i></a></li>
+                <li>pic</li>
+            </ul>
+        </div>
+    </nav>
+    <section id="images"><img class="hero" src="https://images.everydayhealth.com/images/potential-health-benefits-of-music-therapy-1440x810.jpg"></section>
+    <br>
+    <section id="content_d">
+        <p>Depression is a very common anxiety disorder that disrupts the lives of many people worldwide. This disorder is crippling and can present in both physical and mental disability. Music has been known to do wonders for many mental disorders, particularly depression. With music’s ability to significantly improve mood, music can tremendously reduce depressive symptoms. </p><img class="dep_pic" src="https://i0.wp.com/www.additudemag.com/wp-content/uploads/2017/02/Depression_GettyImages-947804676.jpg">
+    </section>
+    <section id="depression">
+        <h1>Depression:</h1><br>
+        <p>Depression is a common illness that affects more than 264 million people worldwide. Depression can be categorized by the moderate or severe intensity of emotional responses to everyday stimuli. These responses can greatly affect how the individual functions at work, school, and around family and friends. Depression, at its worst, has been shown to cause suicidal thoughts or suicide itself. The number of deaths caused by suicide worldwide is close to eight-hundred thousand. Suicide is the second leading cause of deaths in 15-29 year olds. The burden of this disorder as well as other mental health problems has been and still is on the rise globally.</p>
+        <br>
+
+        <img class="dep_pic"src="https://domf5oio6qrcr.cloudfront.net/medialibrary/7813/a83db567-4c93-4ad0-af6f-72b57af7675d.jpg">
+        <h3>Symptoms</h3> 
+           <p> During depressive episodes, a person may experience loss of interest and enjoyment of daily activities as well as loss of appetite. Other symptoms include reduced energy, disturbed sleep, and feelings of guilt and low self-worth. The persistent feeling of sadness can lead to changes in daily behavior, self-esteem, and concentration. Behavior symptoms of depression can include agitation, excessive crying, irritability, restlessness and social isolation. Weight gain and/or weight loss is also a very common symptom of depression. Lack of concentration, slowness in activity, or thoughts of suicide are all cognitive red flags. As said before, these symptoms and behaviors can lead to thoughts of suicide or suicide itself if left untreated. </p>
+    </section>
+    <section class="music_therapy_for_dep">
+        <h1>Music Therapy to cure depression</h1><br>
+      <p> Music therapy has been found to be a beneficial treatment approach for individuals with depression. It is a form of expressive therapy that uses music to address emotional, cognitive, and social needs. Music can have a powerful effect on our mood, and it can help us process and express our emotions in a safe and therapeutic way.</p>
+
+      <p>Studies have shown that music therapy can be effective in reducing symptoms of depression, such as anxiety, stress, and low mood. It can also help individuals develop coping strategies, improve communication and social skills, and increase their overall quality of life.</p>
+
+      <p>Music therapy sessions may involve listening to music, singing, playing instruments, and writing or improvising music. The therapist works with the individual to identify their specific needs and goals and tailors the sessions to meet those needs.</p>
+      <div style="text-align: center"><img  src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSgqAlEPHTFtirAwPS5f0nCrLqqmJckGod6jQ&usqp=CAU" width="200px" height="200px"></div>
+      <p>It's important to note that music therapy should be used as part of a comprehensive treatment plan for depression, including medication and/or talk therapy. If you're interested in trying music therapy, talk to your healthcare provider or a licensed music therapist to learn more about the approach and find a qualified practitioner.</p><br>
+      <h3>List of Music for depression</h3><br>
+      <p>It's important to note that the type of music that may be helpful in treating depression can vary from person to person. Some people may find comfort in slow, soothing music, while others may find energy in upbeat, fast-paced music. Here are a few examples of different types of music that may be helpful in treating depression:</p>
+      <ol>
+        <li><b>Classical music:</b> listening to classical music has been shown to reduce symptoms of depression and anxiety.</li>
+        <li><b>Nature sounds:</b> sounds of nature such as rain, waves, or birdsong can be soothing and calming.</li>
+        <li><b>Instrumental music:</b> instrumental music without lyrics can help quiet the mind and reduce stress.</li>
+        <li><b>Upbeat music:</b> music with a fast tempo and positive lyrics can help improve mood and energy levels.</li>
+        <li><b>Meditation music:</b> music specifically designed for relaxation and meditation can help reduce anxiety and promote feelings of calm.</li>
+        <li><b>Sad music:</b> while it may seem counterintuitive, listening to sad music can sometimes help individuals process and express their emotions in a healthy way.</li>
+        <div style="text-align: center"> <img  src="https://uploads-ssl.webflow.com/5d80e079329a00e31e704430/5ef42c258700900a6f3894c2_KWIjoSJnwxtisFbYgQwnSM_52aqPe3gNp-FAtO8GGKJhGfdrswK1W87iG4cOwaMGgtBdNzxAaIB4a19L1MLHKV74IQWiPm5OtZN9s1jAjgeU8X5GFzzwY8-ul6kH_ZGO1XeKhIeA.png" width="400px" height="400px"></div>
+      </ol>
+      <p>Ultimately, the most important factor is choosing music that resonates with you personally and makes you feel good. Experiment with different types of music and see what works best for you. It's also important to remember that music therapy is just one tool in treating depression and should be used in conjunction with other therapies and treatments recommended by a healthcare professional.</p><br>
+      <p>Here are some potential merits and demerits of creating a list of music to help manage depression:</p>
+      <h3>Merits: </h3>
+      <ol>
+        <li><b>Personalization: </b>A list of music can be personalized to the individual's taste, making it more engaging and enjoyable.
+        </li>
+        <li><b>Emotional regulation: </b>Listening to music can help regulate emotions, reduce stress, and promote relaxation, which can be beneficial in managing depression symptoms.</li>
+        <li><b>Low cost:</b>Creating a list of music is a low-cost intervention, as it can be done with music that is already owned or accessed through free or low-cost streaming services.</li>
+        <li><b>Flexibility:</b>A list of music can be accessed at any time and can be used in a variety of settings, such as at home, during exercise, or while commuting.</li>
+      </ol>
+      <img class="dep_pic" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcStoijJI8Lc3NwLiwqqEF15vdily9G5LNJWyw&usqp=CAU">
+      <h3>Demerits:</h3>
+      <ol>
+        <li><b>Limited evidence:</b> While some research supports the use of music for depression management, there is limited evidence to support the effectiveness of a specific list of music.</li>
+        <li><b>Individual differences:</b>  Different types of music may be more or less effective for different people, and it can be difficult to determine the right approach for each individual.</li>
+        <li><b>Limited scope:</b> A list of music may not address all of the complex emotional and psychological factors involved in depression, and should be used as part of a comprehensive treatment plan.</li>
+      </ol>
+    </section>
+    <section id="links">
+        <a href="Derpression.html">Depression  </a>
+        <a href="Cardiac.html">Cardiac Conditions  </a>
+        <a href="Cancer.html">Disease3  </a>
+
+    </section>
+</body>
+</html>

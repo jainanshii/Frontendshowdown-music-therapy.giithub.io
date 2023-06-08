@@ -1,0 +1,218 @@
+
+  @import url('https://fonts.googleapis.com/css2?family=Instrument+Serif&display=swap');
+  @import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@500&display=swap');
+
+
+*{
+    margin:0px;
+    font-family: 'Montserrat', sans-serif;
+    line-height: 40px;
+     
+}
+body{
+    overflow-y:scroll;
+    background-color: antiquewhite;
+}
+
+nav {
+    background-color: rgba(255, 68, 0, 0.364);
+    height:50px;
+    text-align: center;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    width:100%;  
+    font-family: 'Instrument Serif', serif;  
+    margin:0px !important;
+
+   
+}
+nav ul{
+    list-style-type: none;
+   display:flex;
+   flex-direction: row;
+   justify-content: center;
+   align-items: center;
+   text-decoration: none;
+   
+}
+nav ul li{
+    padding: 0 12px;
+   text-transform: none;
+   text-decoration: none;
+   color:white;
+}
+li{
+    text-decoration: none;
+}
+nav div{
+    display: flex;
+    align-items: center;
+}
+.left{
+    float:left;
+}
+.right{
+    float:right;
+}
+#disease{
+    background-color:rgba(255, 68, 0, 0.364) ;
+}
+#icon{
+    width:50px;
+    height:50px;
+}
+#content{
+    display:flex;
+    flex-wrap: wrap;
+    justify-content:space-between;
+}
+#menu-left{
+    float:left;
+    width:23%;
+    height:auto;
+    letter-spacing: 1px;
+    line-height: 50px;
+    
+    
+}
+#menu{
+    background-color: rgba(0, 0, 255, 0.425);
+    border:2px solid black;
+}
+#menu-left li{
+    list-style-type: disc;
+}
+#menu-right{
+    float:right;
+    width:75%;
+}
+#menu-left li:hover,#menu-left li.active{
+    color: #0c7db1;
+    background:white;
+    border: 2px solid rgb(5, 68, 104);
+    cursor:pointer;
+}
+h1{
+    font-size:40px;
+}
+a{
+    text-decoration: underline;
+    color:black;
+}
+a:hover{
+    color:#0c7db1;
+}
+#images{
+    display:flex;
+    align-items: center;
+    justify-content: center;
+    flex-wrap:wrap;
+}
+.hero{
+    height:600px;
+}
+#be li{
+    list-style-type: square;
+}
+section{
+    margin-top:30px;
+    margin-left: 15px;
+    margin-right: 15px;
+}
+#ques{
+    display:flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+}
+#links a{
+    border-right: 5px solid green;
+    height:35px;
+    margin-right:10px;
+    margin-left: 10px;
+}
+#content_d{
+    display:flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: row;
+}
+.dep_pic{
+    float:right;
+    width:200px;
+    height: 200px;
+}
+.img_main{
+    width: 200px;
+    height: 200px;
+}
+#disease_link{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+#box{
+   background-color: pink;
+    width:600px;
+    height: 500px;
+    border:2px solid black;
+    box-shadow: 10px 5px 5px rgba(137, 43, 226, 0.379);
+    
+}
+.box1{
+    animation: move 5s ease-in-out  1 direction ;
+}
+@keyframes move {
+    50%{
+        width:0px;
+    }
+    100%{
+        width:600px;
+    }
+    
+}
+#n{
+    font-size:30px;
+}
+img:hover{
+    box-shadow: 3px 3px 3px 3px #888888;
+}
+p:hover,li:hover{
+    font-size:22px;
+}
+#icon1{
+    font-size:5rem;
+}
+#link{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    align-items: center;
+}
+#footer{
+    margin-top:20px;
+   background-color: black;
+   width:100%;
+   height: 150px;
+   color:white;
+   display: flex;
+   flex-direction: row;
+   flex-wrap: wrap;
+   justify-content: space-between;
+   align-items: center;
+}
+#footer li{
+    list-style-type: none;
+}
+#footer .content{
+    display:flex;
+    flex-direction: column;
+    align-items: center;
+}
+#footer img{
+    width:50px;
+    height:50px;
+}
+
+
